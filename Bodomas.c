@@ -8,7 +8,7 @@ scanf(" %c", &c);
 scanf("%d", &b);
 switch (c)
 {
-case '+': printf("Sum of both numbers are %d", pass);
+case '+': printf("Sum of both numbers are %d", a+b);
 break;
 case '-': printf("Difference of both numbers are %d", pass);
 break;
