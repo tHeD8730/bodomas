@@ -10,7 +10,7 @@ switch (c)
 {
 case '+': printf("Sum of both numbers are %d", a+b);
 break;
-case '-': printf("Difference of both numbers are %d", pass);
+case '-': printf("Difference of both numbers are %d", a-b);
 break;
 case '*': printf("Product of both numbers are %d", pass);
 break;
